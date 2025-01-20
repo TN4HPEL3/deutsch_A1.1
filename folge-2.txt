@@ -1,0 +1,48 @@
+r. męski - mein | r. nijaki - mein | r. zeński - meine | l. mn. - meine
+Bruder          | Kind             | Tochter           | Kinder
+
+ich     | du        | Sie       |
+mein    | dein      | Ihr       | Bruder
+mein    | dein      | Ihr       | Kind
+meine   | deine     | Ihre      | Tochter
+meine   | deine     | Ihre      | Kinder
+
+er/sie  | kommt     | lebt      | spricht      | ist
+sie/Sie | kommen    | leben     | sprechen     | sind
+
+Tim -> er
+Lara -> sie
+Tim & Lara -> sie
+
+wir     | kommen    | sind
+ihr     | kommt     | seid
+
+ich     | habe      |
+du      | hast      | ein Kind
+er/sie  | hast      |
+
+Norder -> Osten -> Süden -> Westen
+
+Possessivartikel (z. dzierźawcze): mein/e, dein/e, Ihr/e
+męski           | nijaki       | zeński         | l. mn.
+mein Bruder     | mein Kind    | meine Tochter  | meine Kinder
+dein Bruder     | dein Kind    | deine Tochter  | deine Kinder
+Ihr Bruder      | Ihr Kind     | Ihre Tochter   | Ihre Kinder
+
+Verb: Konjugation (odm. czasownika przez osoby)
+        | leben | heißen    | sprechen
+ich     | lebe  | heiße     | spreche
+du      | lebst | heißst    | sprichst
+er/sie  | lebt  | heißt     | spricht
+wir     | leben | heißen    | sprechen
+ihr     | lebt  | heißt     | sprecht
+sie/Sie | leben | heißen    | sprechen
+*auch so: wohnen, lernen, kommen...
+
+        | sein  | haben
+ich     | bin   | habe
+du      | bist  | hast
+er/sie  | ist   | hat
+wir     | sind  | haben
+ihr     | seid  | habt
+sie/Sie | sind  | haben

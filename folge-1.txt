@@ -14,8 +14,10 @@ Was sprichst du?
 Was sprechen Sie?
     Ich spreche...
 
-Aa a | Bb be | Cc tse | Dd de | Ee e | Ef ef | Ff ef | Gg ge | Hh ha | Ii i | Jj jot | Kk ka | Ll el | Mm em | 
-Nn en | Oo o | Pp pe | Qq ku | Rr er | Ss es | Tt te | Uu u | Vv von | Ww we | Xx iks | Yy ypsilon | Zz tsett |
+Aa a    | Bb be      | Cc tse   | Dd de | Ee e  | Ef ef | Ff ef     | Gg ge | 
+Hh ha   | Ii i       | Jj jot   | Kk ka | Ll el | Mm em | Nn en     | Oo o  | 
+Pp pe   | Qq ku      | Rr er    | Ss es | Tt te | Uu u  | Vv von    | Ww we | 
+Xx iks  | Yy ypsilon | Zz tsett |
 
 ae - ee
 oe - uu
@@ -25,3 +27,8 @@ raten - zgadywać
 - rate      - raten
 - rätst     - ratet
 - rät       - raten 
+
+Wie geht's?
+Wie geht es dir?
+Wie geht es Ihnen?
+Gut, danke.

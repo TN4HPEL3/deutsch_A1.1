@@ -26,7 +26,15 @@ keine Kiwi  | keine Kiwis
 85 - fuenfundachtzig
 41 - einundvierzig
 
+1kg = ein Kilo(gram)
+100g = 100 gram
+500g = ein Pfund
+1l = ein Liter
 
+eine Flasche Saft
+eine Packung Tee
+eine Dose Tomaten 
+eine Becher Sahne 
 
 
 

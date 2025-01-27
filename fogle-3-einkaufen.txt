@@ -22,7 +22,9 @@ kein Apfel  | keine Aepfel
 kein Ei     | keine Eier
 keine Kiwi  | keine Kiwis
 
-
+80 - achtzig
+85 - fuenfundachtzig
+41 - einundvierzig
 
 
 

@@ -66,7 +66,14 @@ Frage
 Was     |   brauchen    |   Sie?    |   Eier
 Brauchen|   Sie         |   Salz?   |   Ja./Nein.
 
-
+Artikel: indefiniter Artikel und Negativartikel - rodzajnik nieokreślony / zaprzeczający
+            unbestimmter Artikel    |   Negativartikel
+            Das ist...              
+            ein Apfel.              |   kein Apfel.
+Singular    ein Ei.                 |   kein Ei.
+            eine Banane.            |   keine Banane.
+            Das sind...
+Plural      - Birnen.               | keine Birnen.
 
 
 

@@ -7,7 +7,20 @@ Kursbuch:
 zakupy - Einkaufen
 Haben wir Zucker? (Ja / Nein) - Czy mamy cukier?
 
+ein Apfel   | kein Apfel
+ein Ei      | kein Ei
+eine Birne  | keine Birne
 
+ein Apfel   | Aepfel
+ein Kuchen  | Kuchen
+ein Brot    | Brote
+ein Ei      | Eier
+eine Banane | Bananen
+eine Kiwi   | Kiwis
+
+kein Apfel  | keine Aepfel
+kein Ei     | keine Eier
+keine Kiwi  | keine Kiwis
 
 
 

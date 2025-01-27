@@ -42,7 +42,13 @@ Wie viel kostet     ein Kilo Orangen?
 Was kosten
 Wie viel kosten     100 Gramm Kaese / sechs Eier?
 
-
+chcieć      - moechten
+ich         - moechte
+du          - moechtest
+er/sie      - moechte
+wir         - moechten
+ihr         - moechtet
+sie/Sie     - moechten
 
 
 

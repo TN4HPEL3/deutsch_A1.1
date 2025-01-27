@@ -84,3 +84,11 @@ ein Ei          |   Eier
 eine Banane     |   Bananen
 eine Kiwi       |   Kiwis
 
+Verb: Konjugation
+"moechten" - chcieć
+ich     |   moechte
+du      |   moechtest
+er/sie  |   moechte
+wir     |   moechten
+ihr     |   moechtet
+sie/Sie |   moechten

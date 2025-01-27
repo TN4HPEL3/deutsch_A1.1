@@ -75,5 +75,12 @@ Singular    ein Ei.                 |   kein Ei.
             Das sind...
 Plural      - Birnen.               | keine Birnen.
 
-
+Nomen: Singular und Plural - rzeczownik: l.p. i l.mn.
+Singular        |   Plural
+ein Apfel       |   Aepfel
+ein Kuchen      |   Kuchen
+ein Brot        |   Brote
+ein Ei          |   Eier
+eine Banane     |   Bananen
+eine Kiwi       |   Kiwis
 

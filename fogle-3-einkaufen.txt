@@ -50,7 +50,21 @@ wir         - moechten
 ihr         - moechtet
 sie/Sie     - moechten
 
+Grammatik
 
+Ja-/Nein Frage
+Frage                                   | Anwort
+Position 1
+Haben       |   wir     |   Zucker?     |   Ja
+Brauchst    |   du      |   Reis?       |   Nein
+
+Wir haben Zucker. => Haben wir Zucker?
+
+Fragen: Ja-/Nein-Frage und W-Frage
+Frage
+        |   Position 2
+Was     |   brauchen    |   Sie?    |   Eier
+Brauchen|   Sie         |   Salz?   |   Ja./Nein.
 
 
 

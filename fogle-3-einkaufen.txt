@@ -94,7 +94,6 @@ ihr     |   moechtet
 sie/Sie |   moechten
 
 Arbeitsbuch
-
 ///     Test 25/26 pkt.         ///     31/1/2025
 
 3,8% = drei Komma acht Prozent
@@ -106,3 +105,75 @@ najlepiej spozyć do  - mindestens haltbar bis
 szlachetny - edel
 składniki - zutaten
 stołówka - die Kantine
+
+Lernwortschatz
+banan, banany - die Banane, die Bananen
+masło - die Butter (Sg.)
+jajko, jajka - das Ei, die Eier
+mąka - das Mehl (Sg.)
+mleko - die Milch (Sg.)
+cukier - der Zucker (Sg.)
+naleśnik, naleśniki - der Pfannkuchen, die Pfannkuchen
+czekolada - die Schokolade (Sg.)
+potrzebować - brauchen
+kupować - kaufen
+głód - der Hunger (Sg.)
+euro - der Euro (Sg.)
+mięso - das Fleisch (Sg.)
+piwo - das Bier (Sg.)
+ser - der Kaese (Sg.)
+sól - das Salz (Sg.)
+herbata, herbaty - der Tee, die Tees
+chleb, chleby - das Brot, die Brote
+wino, wina - der Wein, die Weine
+woda mineralna - das Mineralwasser (Sg.)
+ryz - der Reis (Sg.)
+ryba, ryby - der Fisch, die Fische
+jeden, jedna, jedno - ein-
+zaden, zadna, zadno - kein-
+jabło, jabłka - der Apfel, die Aepfel
+pomarańcz, pomarańcze - die Orange, die Orangen
+ciasto, ciasta - der Kuchen, die Kuchen
+kawa, kawy - der Kaffee, die Kaffees
+sok, soki - der Saft, die Saefte
+bułka, bułki - das Broetchen, die Broetchen
+parówka, parówki (kiełbaski) - das Wuertschen, die Wuertschen
+gruszka, gruszki - die Birne, die Birnen
+pomidor, pomidory - die Tomate, die Tomaten
+ziemniak, ziemniaki - die Kartoffel, die Kartoffeln
+jogurt, jogurty - der/das Joghurt, die Joghurts
+cebula, cebule - die Zwiebel, die Zwiebeln
+regał, regały - das Regal, die Regale
+cena, ceny - der Preis, die Praise
+cent - der Cent (Sg.)
+broszura, broszury - der Prospekt, die Prospekte
+oferta specjalna, oferty specjalne - das Sonderangebot, die Sonderangebote
+artykuł spozywczy, artykuły spozywcze - das Lebensmittel, die Lebensmittel
+ile - wie viel
+kosztować/kosztuje - kosten
+kilogram - das Killo(gramm) (Sg.)
+gram - das Gramm (g) (Sg.)
+pół kilo - das Pfund (Sg.)
+litr, litry - der Liter, die Liter (l)
+butelka, butelki - die Flasche, die Flaschne
+puszka, puszki - die Dose, die Dosen
+śmietana - die Sahne (Sg.)
+kiełbasa, kiełbasy - die Wurst, die Wuerste
+mięso mielone - das Hackfleisch (Sg.)
+sprzedwca, sprzedawcy - der Verkaeufer, die Verkaeufer
+sprzedwaczyni, sprzedawczynie - die Verkaeuferin, die Verkaeuferinen
+klient, klienci - der Kunde, die Kunden
+klientka, klientki - die Kundin, die Kundinen
+jeszcze - noch
+wszystko - all-
+chcieć - moechten
+znajdować/znaleźć - finden
+sklep, sklepy - der Laden, die Laeden
+owoce - das Obst (Sg.)
+warzywo, warzywa - das Gemuese, die Gemuese
+piekarnia, piekarnie - die Baeckerei, die Baeckereien
+recepta, przepis - das Rezept, die Rezepte
+dla - fuer
+woda - das Wasser (Sg.)
+pieprz - der Pfeffer (Sg.)
+

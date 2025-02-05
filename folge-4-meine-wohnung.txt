@@ -70,3 +70,17 @@ schau mal! - spójrz!
 
 Die Stühle sind (nicht) schön.
 Das gefällt mir (nicht).
+
+/// Arbeitsbuch ///
+
+Użycie der/die/das pasuje do sytuacji, w których mówimy o,
+konkretnych rzeczach gdzie rodzajnik jest określony. W sytuacji,
+kiedy mówimy o czymś dokładnie nie określonym uywa się ein/eine,
+czyli rodzajniki nieokreślone.
+
+Jeśli mówimy o rzeczach w sposób ogólny lub rzeczach w kontekście
+zbiorowym, pomijamy rodzajnik. Np. mówiąc o owocach jako kategori.
+
+n = neutral = das/ein
+f = feminin = die/eine
+m = maskulin = der/ein

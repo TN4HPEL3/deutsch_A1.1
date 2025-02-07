@@ -84,3 +84,9 @@ zbiorowym, pomijamy rodzajnik. Np. mówiąc o owocach jako kategori.
 n = neutral = das/ein
 f = feminin = die/eine
 m = maskulin = der/ein
+
+/// Test ///
+
+24/25 Pkt. 07/02/2025
+
+/////

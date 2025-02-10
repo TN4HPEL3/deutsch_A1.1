@@ -1,0 +1,62 @@
+Haben wir Zucker?   |   ja/nein
+
+ein     Apfel   |   kein    Apfel
+ein     Ei      |   kein    Ei
+eine    Birne   |   keine   Birne
+
+ein Apfel       |   Äpfel
+ein Kuchen      |   Kuchen
+ein Brot        |   Brote
+ein Ei          |   Eier
+eine Banane     |   Bananen
+eine Kiwi       |   Kiwis
+
+kein Apfel      |   keine Äpfel
+kein Ei         |   keine Eier
+keine Kiwi      |   keine Kiwis
+
+Grammatik
+
+1. Ja-/Nein-Frage
+Frage                               Antwort
+Position 1
+Haben       wir         Zucker?     Ja.
+Brauchst    du          Reis?       Nein.
+
+2. Fragen: Ja-/Nein-Frage und W-Frage
+Frage                               Antwort
+            Position 2
+Was         brauchen    Sie?        Eier.
+Brauchen    Sie         Salz?       Ja./Nein.
+
+3. Artikel: indefiniter Artikel und Negativartikel
+
+            unbestimmter Artikel    Negativartikel
+
+            Das ist...
+            ein Apfel.              kein Apfel.
+Singular    ein Ei.                 kein Ei.
+            eine Banane             keine Banane.
+            
+            Das sind...
+Plural      - Birnen.               keine Birnen.
+
+4. Nomen: Singular und Plural
+
+Singular            Plural
+ein Apfel           Äpfel
+ein Kuchen          Kuchen
+ein Brot            Brote
+ein Ei              Eier
+eine Banane         Bananen
+eine Kiwi           Kiwis
+
+5. Verb: Konjugation
+
+    "möchte"
+ich         möchte
+du          möchtest
+er/sie      möchte
+wir         möchten
+ihr         möchtet
+sie/Sie     möchten

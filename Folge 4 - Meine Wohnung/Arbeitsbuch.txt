@@ -1,0 +1,50 @@
+Wo? Hier. / Dort ->
+
+neu     <-> alt
+billig  <-> teuer
+groß    <-> klein
+breit   <-> schmal
+schön   <-> hässlich
+hell    <-> dunkel
+
+der Stuhl                   Stühle
+der Tisch   -> die/zwei     Tische
+-                           Möbel
+
+Wie     gefällt     dir/Ihnen   der Tisch?
+Wie     gefallen    dir/Ihnen   die Betten?
+
+hellrot <-> dunkelrot
+
+1cm = ein Zentimeter
+60 x 120 cm = sechzig mal hundertzwanzig Zentimeter
+
+1 Meter (m) = 100 Zentimeter (cm)
+
+genau       zwei Meter = 2,00 m
+ungefähr    zwei Meter = 2,02 m
+
+Grammatik
+
+1. Definiter Artikel
+                                definiter Artikel
+            Hier ist            der                 Balkon.
+Singular    Hier ist            das                 Bad.
+            Hier ist            die                 Küche.
+
+Plural      Hier sind           die                 Kinderzimmer.
+
+2. Personalpronomen
+                                Personalpronomen
+            Wo ist...
+            der Balkon?         Er                  ist dort.
+Singular    das Bad?            Es                  ist dort.
+            die Küche?          Sie                 ist dort.
+            Wo sind...
+Plural      die Kinderzimmer?   Sie                 sind dort.
+
+3. Negation
+Der Stuhl ist       nicht       schön.
+Walter wohnt        nicht       hier.
+Sie haben           keine       Möbel.
+

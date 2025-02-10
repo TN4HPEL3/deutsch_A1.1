@@ -1,0 +1,64 @@
+6 Uhr   - 11 Uhr: (Guten) Morgen
+11 Uhr  - 18 Uhr: (Guten) Tag
+18 Uhr  - ...   : Guten Abend
+
+Wie heißen Sie?
+    Ich heiße...
+    Ich bin...
+    Mein Name ist...
+
+Wer ist das?
+    Das ist...
+
+Woher kommen Sie?
+Woher kommst du?
+    Aus...
+
+Was sprichst du?
+Was sprechen Sie?
+    Ich spreche...
+
+Aa a    | Bb be      | Cc tse   | Dd de | Ee e  | Ef ef | Ff ef     | Gg ge | 
+Hh ha   | Ii i       | Jj jot   | Kk ka | Ll el | Mm em | Nn en     | Oo o  | 
+Pp pe   | Qq ku      | Rr er    | Ss es | Tt te | Uu u  | Vv von    | Ww we | 
+Xx iks  | Yy ypsilon | Zz tsett |
+
+ä - ee
+ö - uu
+ü - yy
+ß - eszett
+
+raten - zgadywać
+- rate      - raten
+- rätst     - ratet
+- rät       - raten 
+
+Wie geht's?
+Wie geht es dir?
+Wie geht es Ihnen?
+Gut, danke.
+
+Grammatik
+
+1. Aussage
+    Mein Name   ist ...
+    Ich         bin ...
+    Ich         komme...
+    Sie         sprechen...
+
+2. W-Frage
+    Wer     ist         das?
+    Wie     heißen      Sie?
+    Woher   kommen      Sie?
+    Was     sprechen    Sie?
+
+3. Verb: Konjugation
+        kommen      heißen      sprechen        sein
+ich     komme       heiße       spreche         bin
+du      kommst      heißt       sprichst        bist
+Sie     kommen      heißen      sprechen        sind
+
+Merke:  ich (-e)
+        du  (-st)
+        Sie (-en)
+

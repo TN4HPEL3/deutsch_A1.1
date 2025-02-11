@@ -59,7 +59,59 @@ ich         schlafe
 du          schläfst
 er/sie      schläft
 
-5. Mówienie o czynnościach w czasie
+5a. Mówienie o czynnościach w czasie
     Er      "macht"       am Nachmittag Sport.
     Am Nachmittag       "macht"       er Sport.
+
+
+5b. Oficjalne i nieoficjalne formy mówienia o czasie
+                offiziell               privat
+8:30    ->     acht Uhr dreißig         halb neun    
+19:00   ->      neunzehn Uhr            sieben Uhr
+
+6.
+Montag bis Sonntag  =   jeden   Tag
+                        jeden   Morgen
+                        jeden   Abend
+                        jedes   Wochenende
+                        jede    Nacht
+
+7. Trennbare Verben
+auf | räumen    ->  Ich     räume       auf.
+auf | stehen    ->  Er      steht       auf.
+ein | kaufen    ->  Wir     kaufen      ein.
+*auch so: anrufen, fernsehen, anfangen, abholen.
+
+8. Trennbare Verben im Satz
+            Position 2  
+Ich         räume           mein Zimmer         auf.
+Er          steht           früh                auf.
+Wir         kaufen          im Supermarkt       ein.
+Stehst      du              gern früh           auf?
+
+9. Temporale Präpositionen
+Wann gehen Sie zum Deutschkurs?
+-   am Vormittag                    -> Tageszeit
+    !!! aber: in der Nacht !!!
+
+-   am Montag                       -> Tag
+    von Montag bis Freitag          
+
+-   um zehn Uhr                     ->  Uhrzeit
+    um Viertel vor/nach acht        
+    von neun bis fünf (Uhr)
+
+10. Verb: Konjugation
+            anfangen        arbeiten        essen       fernsehen           schlafen
+ich         fange   an      arbeite         esse        sehe    fern        schlafe
+du          fängst  an      arbeitest       isst        siehst  fern        schläfst
+er/sie      fängt   an      arbeitet        isst        sieht   fern        schläft
+wir         fangen  an      arbeiten        essen       sehen   fern        schlafen
+ihr         fangt   an      arbeitet        esst        seht    fern        schlaft
+sie/Sie     fangen  an      arbeiten        essen       sehen   fern        schlafen
+
+11. Verb: Position im Hauptsatz
+                    Position 2
+Robert              macht           am Nachmittag Sport.
+Am Nachmittag       macht           Robert Sport.
 

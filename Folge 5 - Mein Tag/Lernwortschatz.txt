@@ -23,6 +23,7 @@ zamykać                         - schließen
 odpowiadać                      - antworten
 jeść śniadanie                  - frühstücken
 spacerować                      - spazieren gehen
+mieć ochotę                     - vorlieben
 dzwonić                         - anrufen (r.zł.)
 zaczynać                        - anfangen (r.zł)
 wstawać                         - aufstehen (r. zł.)
@@ -42,6 +43,7 @@ supermarket                     - der Supermarkt, ¨e
 przedszkole                     - der Kindergarten, -¨ -> die Kindergärten
 południe (pora dnia)            - der Mittag, -e
 intensywny kurs                 - der Intensivkurs, -e
+cmentarz                        - der Friedhof, ¨e
 
 n = neutral = das/ein
 kino                            - das Kino, -s
@@ -64,6 +66,7 @@ przyjaciółka                    - die Freundin, -nen
 prezentacja                     - die Präsentation, -en
 zadanie domowe                  - die Hausaufgabe, -n
 centrum opieki dziecięcej       - die Kita (Kindertagestätte), -s
+umówione spotkanie              - die Verabredung
 
 poniedziałek                    -  der Montag, -e -> die Montage
 wtorek                          - der Dienstag, -e
@@ -111,3 +114,4 @@ na przykład                     - zum Beispiel (z.B.)
 naprawdę/rzeczywiście           - wirklich
 w końcu                         - entlich
 
+ustawowy/prawny                 - gezetslich

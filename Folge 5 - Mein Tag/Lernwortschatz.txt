@@ -51,6 +51,7 @@ kwadrans                        - das Viertel, -
 przykład                        - das Beispiel, -e
 weekend                         - das Wochenende, -n
 zakład, sklep                   - das Geschäft, -e
+krzyżówka/zagadka               - das Rätsel, -
 
 f = feminin = die/eine
 mama                            - die Mama, -s
@@ -67,6 +68,7 @@ prezentacja                     - die Präsentation, -en
 zadanie domowe                  - die Hausaufgabe, -n
 centrum opieki dziecięcej       - die Kita (Kindertagestätte), -s
 umówione spotkanie              - die Verabredung
+czekolada                       - die Schokolade, -n
 
 poniedziałek                    -  der Montag, -e -> die Montage
 wtorek                          - der Dienstag, -e

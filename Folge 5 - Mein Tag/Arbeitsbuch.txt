@@ -43,6 +43,11 @@ ich         fange       an
 du          fängst      an
 er/sie      fängt       an
 
+"schlafen" - spać
+ich         schlafe
+du          schläfst
+er/sie      schläft
+
 4. Pytania o czas/dzień
                     Am Montag.
     - Wann?         Um zehn Uhr.
@@ -54,19 +59,18 @@ er/sie      fängt       an
 
     am Samstag + am Sonntag = am Wochenende
 
-"schlafen" - spać
-ich         schlafe
-du          schläfst
-er/sie      schläft
+    Samstag: in Norddeutschland auch Sonnabend
+
 
 5a. Mówienie o czynnościach w czasie
-    Er      "macht"       am Nachmittag Sport.
-    Am Nachmittag       "macht"       er Sport.
-
+    Am Nachmittag       "macht"         er                  Sport.
+    Er                  "macht"         am Nachmittag       Sport.
+    Jetzt               "kaufe"         ich                 Fleisch und Gemüse      ein.
+    Ich                 "kaufe"         jetzt               Fleisch und Gemüse      ein.
 
 5b. Oficjalne i nieoficjalne formy mówienia o czasie
                 offiziell               privat
-8:30    ->     acht Uhr dreißig         halb neun    
+8:30    ->      acht Uhr dreißig        halb neun    
 19:00   ->      neunzehn Uhr            sieben Uhr
 
 6.
@@ -102,13 +106,29 @@ Wann gehen Sie zum Deutschkurs?
     von neun bis fünf (Uhr)
 
 10. Verb: Konjugation
-            anfangen        arbeiten        essen       fernsehen           schlafen
-ich         fange   an      arbeite         esse        sehe    fern        schlafe
-du          fängst  an      arbeitest       isst        siehst  fern        schläfst
-er/sie      fängt   an      arbeitet        isst        sieht   fern        schläft
-wir         fangen  an      arbeiten        essen       sehen   fern        schlafen
-ihr         fangt   an      arbeitet        esst        seht    fern        schlaft
-sie/Sie     fangen  an      arbeiten        essen       sehen   fern        schlafen
+            anfangen        arbeiten        essen           fernsehen           schlafen
+ich         fange   an      arbeite         esse            sehe    fern        schlafe
+du          fängst  an      arbeitest       isst            siehst  fern        schläfst
+er/sie      fängt   an      arbeitet        isst            sieht   fern        schläft
+wir         fangen  an      arbeiten        essen           sehen   fern        schlafen
+ihr         fangt   an      arbeitet        esst            seht    fern        schlaft
+sie/Sie     fangen  an      arbeiten        essen           sehen   fern        schlafen
+
+            chatten         hören           schlafen        spazieren           frühstücken
+ich         chatte          höre            schlafe         spaziere            frühstücke
+du          chattest        hörst           schläfst        spazierst           frühstückst
+er/sie      chattet         hört            schläft         spaziert            frühstückt
+wir         chatten         hören           schlafen        spazieren           frühstücken
+ihr         chattet         hört            schlaft         spaziert            frühstückt
+sie/Sie     chatten         hören           schlafen        spazieren           frühstücken
+
+            anrufen
+ich         rufe    an
+du          rufst   an
+er/sie      ruft    an
+wir         rufen   an
+ihr         ruft    an
+sie/Sie     rufen   an
 
 11. Verb: Position im Hauptsatz
                     Position 2

@@ -1,0 +1,29 @@
+Informationstexte verstehen
+1. 
+    Zu A:   - Wann?
+            - Wo?    
+            - Was kostet?
+    Zu B:   - Was macht? 
+            - Wann?
+
+    Antwort A:  -   Freitag, 06.12., 9:00 Uhr
+                    Freitag, 24.01., 9:00 Uhr
+                _   Bremerhaven
+                -   0 Euro
+                    160 Euro
+    Antwort B:  -   Informationen zu den Deutschkursen
+                    Sprachberatung
+                    Einstufungstests
+                -   Mo bis Mi:  9:00 bis 15:00 Uhr
+                    Do:         14:00 bis 15:00 Uhr
+
+biuro konsultacyjne         -   das Beratungsbüro
+porada językowa             -   die Sprachberatung  
+uchodźcy / imigrant         -   die Zuwanderer
+grupa docelowa              -   die Zielgruppe
+uczestnik                   -   der Teilnehmer
+termin rejestracji          -   der Anmeldeschluss
+rejestracja                 -   die Anmeldung
+test klasyfikacyjny         -   die Einstufungstests
+lekcje niemieckiego         -   der Deutschunterricht
+centrum edukacji dorosłych  -   die Volkshochschule

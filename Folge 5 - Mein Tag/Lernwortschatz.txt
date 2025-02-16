@@ -70,7 +70,7 @@ centrum opieki dziecięcej       - die Kita (Kindertagestätte), -s
 umówione spotkanie              - die Verabredung
 czekolada                       - die Schokolade, -n
 
-poniedziałek                    -  der Montag, -e -> die Montage
+poniedziałek                    - der Montag, -e -> die Montage
 wtorek                          - der Dienstag, -e
 środa                           - der Mittwoch, -e
 czwartek                        - der Donnerstag, -e

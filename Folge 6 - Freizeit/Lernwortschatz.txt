@@ -22,6 +22,7 @@ vergessen                   zapomnieć
 schwimmen                   pływać
 telefonieren                dzwonić
 fotografieren               robić zdjęcia
+stricken                    robić na drutach
 
 
 Nomen

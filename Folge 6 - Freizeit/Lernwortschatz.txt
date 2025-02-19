@@ -53,6 +53,9 @@ der Krimi, -s               thriller kryminalny
 der/das Ketchup, -s         ketchup
 
 der Ausflug, ¨e             wylot (m)
+der Verein, -e              stowarzyszenie (m)
+der Himmel, -               niebo (m)
+der Einwohner, -            mieszkaniec
 
 n = neutral = das/ein
 das Eis (Sg.)               lód (n)
@@ -88,6 +91,8 @@ die Temperatur, -en         temperatura
 
 die Cola, -s                cola
 
+die Heimatstadt, ¨e         miasto rodzinne
+
 Pl. = Plural = die
 die Pommes frites (Pommes)  frytki (Pl.)
 
@@ -110,6 +115,7 @@ minus                       ujemny
 heiß                        gorący
 schlecht                    zły
 angenehm                    przyjemny
+langweilig                  nudny
 doch                        zaprzeczenie?
 lieber                      droga/drogi
 warum                       dlaczego
@@ -123,3 +129,6 @@ immer                       zawsze
 vielleicht                  być może
 einfach                     łatwo
 schnell                     szybko
+
+im Gegenteil                przeciwnie
+nämlich                     mianowicie

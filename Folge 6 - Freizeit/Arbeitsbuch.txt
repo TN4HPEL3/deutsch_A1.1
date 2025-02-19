@@ -76,3 +76,4 @@ im Westen   -   na zachód
                                 ein     ||  kein        Wasser.
                                 eine    ||  keine       Cola.
                                 -       ||  keine       Säfte.
+

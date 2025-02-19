@@ -155,7 +155,7 @@ kilogram - das Killo(gramm) (Sg.)
 gram - das Gramm (g) (Sg.)
 pół kilo - das Pfund (Sg.)
 litr, litry - der Liter, die Liter (l)
-butelka, butelki - die Flasche, die Flaschne
+butelka, butelki - die Flasche, die Flaschen
 puszka, puszki - die Dose, die Dosen
 śmietana - die Sahne (Sg.)
 kiełbasa, kiełbasy - die Wurst, die Wuerste

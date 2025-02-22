@@ -57,6 +57,8 @@ der Verein, -e              stowarzyszenie (m)
 der Himmel, -               niebo (m)
 der Einwohner, -            mieszkaniec
 
+der Kartoffelsalat, -e      ziemniaczana sałatka
+
 n = neutral = das/ein
 das Eis (Sg.)               lód (n)
 das Grad (Sg.)              stopień (n)

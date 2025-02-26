@@ -32,6 +32,7 @@ Hast du keinen Hunger mehr?                         Doch.   ||   Nein.
 
 5. Verb: Konjugation
                 lesen           treffen         nehmen          fahren
+                
 ich             lese            treffe          nehme           fahre
 du              liest           triffst         nimmst          fährst
 er/sie/es       liest           trifft          nimmt           fährt
@@ -81,7 +82,7 @@ im Westen   -   na zachód
 - einen     meinen      deinen      Schrank
 - ein       mein        dein        Deutschbuch.Zimmer
 - eine      meine       deine       Waschmaschine
-- -          meine       deine       Hausaufgaben
+- -         meine       deine       Hausaufgaben
 
 13. Wort zusammenbauen
 die Kartoffel + der Salat = der Kartoffelsalat

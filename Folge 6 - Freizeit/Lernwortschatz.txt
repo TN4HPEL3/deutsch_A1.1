@@ -9,6 +9,7 @@ regnen                      padać (deszcz)
 nehmen                      brać
 tanzen                      tańczyć
 fahren                      jechać
+feiern                      celebrować
 meinen                      mieć na myśli
 wandern                     wędrować
 steigen                     rosnąć (temp.)
@@ -95,6 +96,9 @@ die Cola, -s                cola
 
 die Heimatstadt, ¨e         miasto rodzinne
 
+die Einladung, -en          zaproszenie
+die Zeitung, -en            gazeta
+
 Pl. = Plural = die
 die Pommes frites (Pommes)  frytki (Pl.)
 
@@ -134,3 +138,4 @@ schnell                     szybko
 
 im Gegenteil                przeciwnie
 nämlich                     mianowicie
+außerdem                    jak również

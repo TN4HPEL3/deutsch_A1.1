@@ -3,7 +3,7 @@
 malen                           malować
 können                          potrafić
 singen                          śpiewać
-reiten                          ujeżdżać
+reiten                          ujeżdżać (konia)
 wecken                          obudzić się
 wollen                          chcieć
 tanzen                          tańczyć
@@ -16,6 +16,8 @@ losfahren                       wyjść/wyjechać
 mitkommen                       przyjść z
 schwimmen                       pływać
 zurückkommen                    wracać
+stricken                        dziergać na drutach
+jonglieren                      żonglować
 
 2. Nomen
 
@@ -69,3 +71,7 @@ Tennis spielen                      grać w tenisa
 Freunde treffen                     spotkać przyjaciela
 Gitarre spielen                     grać na gitarze
 pünktlich auf keinen/jeden Fall     punktualny w każdym wypadku
+
+senkrecht                           pionowy
+waagerecht                          poziomy
+diagonal                            ukośny

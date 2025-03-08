@@ -19,3 +19,60 @@ er/sie      will
 wir         wollen
 ihr         wollt
 sie/Sie     wollen
+
+Lara hat Tee gemacht.
+
+Hast du Mittag gessen?
+
+Ich     bin     spazieren       gegange.
+Ich     bin     Fahrrad         gefahren.
+Bist    du      pünktlich       gekommen?
+
+Ich     bin     spazieren       gegangen.
+Ich     bin     Fahrrad         gefahren.
+Bist    du      pünktlich       gekommen?
+
+1. Modelverben: können und wollen
+
+                können      wollen
+ich             kann        will
+du              kannst      willst
+er/es/sie       kann        will
+wir             können      wollen
+ihr             könnt       wollt
+sie/Sie         können      wollen
+
+2, Moodelverben im Satz 
+
+                Position 2                              Ende
+ich             kann        nicht zum Deutschkurs       gehen.
+Sie             will        nicht zu spät               kommen.
+Kannst          du          im Supermarkt               einkaufen?
+
+3. Perfekt mit haben (Czas przeszły dokonany)
+
+                                haben + ge...t
+lernen          er lern         er hat gelernt
+machen          er macht        er hat gemacht
+spielen         er spielt       er hat gespielt
+kaufen          er kauft        er hat gekauft
+
+                                haben + ge...en
+treffen         er trifft       er hat getroffen
+trinken         er trinkt       er hat getrunken
+sprechen        er spricht      er hat gesprochen
+schreiben       er schreibt     er hat geschrieben
+
+4. Perfekt mit sein (Czas przeszły niedokonany)
+
+                        sein + ge...en (. -> .)
+gehen       er geht     er ist gegangen
+fahren      er fährt    er ist gefahren
+kommen      er kommt    er ist gekommen
+
+5. Das Perfekt im Satz (Czas przeszły dokonany)
+
+        Position 2
+Lara    hat             Tee             gemacht.
+Ich     bin             spazieren       gegangen.
+Bist    du              pünktlich       gekommen?

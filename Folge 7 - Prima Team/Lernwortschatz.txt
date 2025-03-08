@@ -32,6 +32,7 @@ der Junge, -n                   młody
 der Kilometer, -                kilometr
 der Eintritt (Sg.)              wstęp
 der Unterricht (Sg.)            nauczanie
+der Eintritt, -e                opłata za wstęp
 
 feminin
 
@@ -75,3 +76,21 @@ pünktlich auf keinen/jeden Fall     punktualny w każdym wypadku
 senkrecht                           pionowy
 waagerecht                          poziomy
 diagonal                            ukośny
+
+gelernt
+gemacht
+gehabt
+gehört
+gesehen
+gelesen
+gekauft
+gekocht
+gegessen
+gespielt
+getroffen
+getrunken
+gesprochen 
+gearbeitet
+geschrieben
+gefrühstückt
+
